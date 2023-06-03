@@ -1,7 +1,3 @@
-{"p":"orc-20","tick":".oid","reg":"093.oid","id":"1","op":"mint","amt":"1"}
-{"p":"orc-20","tick":".oid","reg":"094.oid","id":"1","op":"mint","amt":"1"}
-{"p":"orc-20","tick":".oid","reg":"097.oid","id":"1","op":"mint","amt":"1"}
-{"p":"orc-20","tick":".oid","reg":"098.oid","id":"1","op":"mint","amt":"1"}
 {"p":"orc-20","tick":".oid","reg":"137.oid","id":"1","op":"mint","amt":"1"}
 {"p":"orc-20","tick":".oid","reg":"142.oid","id":"1","op":"mint","amt":"1"}
 {"p":"orc-20","tick":".oid","reg":"146.oid","id":"1","op":"mint","amt":"1"}
@@ -147,7 +143,6 @@
 {"p":"orc-20","tick":".oid","reg":"578.oid","id":"1","op":"mint","amt":"1"}
 {"p":"orc-20","tick":".oid","reg":"579.oid","id":"1","op":"mint","amt":"1"}
 {"p":"orc-20","tick":".oid","reg":"583.oid","id":"1","op":"mint","amt":"1"}
-{"p":"orc-20","tick":".oid","reg":"587.oid","id":"1","op":"mint","amt":"1"}
 {"p":"orc-20","tick":".oid","reg":"596.oid","id":"1","op":"mint","amt":"1"}
 {"p":"orc-20","tick":".oid","reg":"614.oid","id":"1","op":"mint","amt":"1"}
 {"p":"orc-20","tick":".oid","reg":"621.oid","id":"1","op":"mint","amt":"1"}

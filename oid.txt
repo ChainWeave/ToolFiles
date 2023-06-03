@@ -1,3 +1,4 @@
+Twitter : https://twitter.com/chainweave
 {"p":"orc-20","tick":".oid","reg":"245.oid","id":"1","op":"mint","amt":"1"}
 {"p":"orc-20","tick":".oid","reg":"274.oid","id":"1","op":"mint","amt":"1"}
 {"p":"orc-20","tick":".oid","reg":"294.oid","id":"1","op":"mint","amt":"1"}
